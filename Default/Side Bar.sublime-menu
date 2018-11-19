@@ -1,0 +1,66 @@
+[
+    {
+        "command": "new_file_at", 
+        "args": {
+            "dirs": []
+        }, 
+        "caption": "新建文件"
+    }, 
+    {
+        "command": "rename_path", 
+        "args": {
+            "paths": []
+        }, 
+        "caption": "重命名…"
+    }, 
+    {
+        "command": "delete_file", 
+        "args": {
+            "files": []
+        }, 
+        "caption": "删除文件"
+    }, 
+    {
+        "command": "open_containing_folder", 
+        "args": {
+            "files": []
+        }, 
+        "caption": "打开所在文件夹…"
+    }, 
+    {
+        "command": "reveal_link_source", 
+        "args": {
+            "dirs": []
+        }, 
+        "caption": "打开链接目录"
+    }, 
+    {
+        "id": "folder_commands", 
+        "caption": "-"
+    }, 
+    {
+        "command": "new_folder", 
+        "args": {
+            "dirs": []
+        }, 
+        "caption": "新建文件夹…"
+    }, 
+    {
+        "command": "delete_folder", 
+        "args": {
+            "dirs": []
+        }, 
+        "caption": "删除文件夹"
+    }, 
+    {
+        "command": "find_in_folder", 
+        "args": {
+            "dirs": []
+        }, 
+        "caption": "在文件夹中查找…"
+    }, 
+    {
+        "id": "end", 
+        "caption": "-"
+    }
+]
